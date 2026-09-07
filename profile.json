@@ -1,0 +1,40 @@
+{
+  "schema": "omkar-profile/v1",
+  "identity": {
+    "name": "Omkar Abhay Sawant Bhosle",
+    "headline": "Hands-on AI/platform product engineer",
+    "location": "United States",
+    "linkedin": "https://www.linkedin.com/in/omkarsb7"
+  },
+  "positioning": "Turns ambiguous operational workflows into reliable, inspectable software across product, APIs, infrastructure, AI agents, and production operations.",
+  "primary_role_targets": [
+    "Senior Forward-Deployed Engineer",
+    "AI Solutions Engineer",
+    "AI Platform Product Engineer"
+  ],
+  "secondary_role_targets": [
+    "Senior Technical Product Manager",
+    "Senior Technical Program Manager",
+    "Senior Platform Engineer",
+    "Infrastructure Architect"
+  ],
+  "core_strengths": [
+    "End-to-end product and engineering ownership",
+    "AI agent workflows with typed tools, permissions, approvals, and evaluation",
+    "Backend/platform engineering and API modernization",
+    "Cloud/runtime provisioning and unattended automation",
+    "Enterprise integrations, identity, access, and observability",
+    "Translating user problems into shipped technical systems"
+  ],
+  "technologies": [
+    "Python", "Go", "TypeScript", "React", "Next.js", "FastAPI", "REST", "PostgreSQL", "MongoDB", "Prisma", "AWS", "Kubernetes/EKS", "Jenkins", "Supabase", "Lambda", "API Gateway", "S3", "Splunk", "CloudWatch", "OAuth2", "RBAC/LDAP"
+  ],
+  "evidence_highlights": [
+    "8+ years across founder-led products, Apple, and eBay-related work",
+    "Reduced recurring manual work by more than three hours per day through automation at Apple",
+    "Built enterprise automation integrations handling workloads exceeding 300K events per hour",
+    "Coin Yodha reached more than 8K organic beta users in six weeks",
+    "HomeLantern includes 56 registered AI-triggered interfaces and approximately 110 domain actions across 11 entities"
+  ],
+  "decision_rule": "Prefer roles where customer or operator problems become technical solutions that can be designed, built, deployed, observed, and improved directly."
+}
