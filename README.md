@@ -23,3 +23,5 @@ Secondary fit: Senior Technical Product Manager / Technical Program Manager for 
 ## Repository contract
 
 This repository is a compact professional identity and evidence index for humans and AI agents. It is not a complete archive of private resumes, application history, recruiter messages, credentials, or personal data.
+
+Updated October 19, 2026. eBay/KeyuTech ended September 2026. HomeLantern and InferenceAtlas are co-founder work. Private operational continuity belongs in the separately authorized private Control Room repository, not this public profile.

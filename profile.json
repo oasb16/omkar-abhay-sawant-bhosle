@@ -1,5 +1,6 @@
 {
   "schema": "omkar-profile/v1",
+  "updated_at": "2026-10-19",
   "identity": {
     "name": "Omkar Abhay Sawant Bhosle",
     "headline": "Hands-on AI/platform product engineer",
@@ -24,7 +25,8 @@
     "Backend/platform engineering and API modernization",
     "Cloud/runtime provisioning and unattended automation",
     "Enterprise integrations, identity, access, and observability",
-    "Translating user problems into shipped technical systems"
+    "Translating user problems into shipped technical systems",
+    "Candidate-confirmed people management at Apple and eBay, with project, program and product responsibilities at eBay"
   ],
   "technologies": [
     "Python", "Go", "TypeScript", "React", "Next.js", "FastAPI", "REST", "PostgreSQL", "MongoDB", "Prisma", "AWS", "Kubernetes/EKS", "Jenkins", "Supabase", "Lambda", "API Gateway", "S3", "Splunk", "CloudWatch", "OAuth2", "RBAC/LDAP"
